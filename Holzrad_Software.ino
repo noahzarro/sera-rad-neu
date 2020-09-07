@@ -23,7 +23,7 @@
 #define DEBUG_SLOW_DOWN_CHANGE 9 //Bremsgeschw. im Manuell-Modus
 // take a break
 #define TIME_RANDOM_MIN 2000 //Minimale Pausenlänge zwischen Fahrsequenzen
-#define TIME_RANDOM 80000 //Maximale Pausenlänge zwischen Fahrsequenzen
+#define TIME_RANDOM_MAX 80000 //Maximale Pausenlänge zwischen Fahrsequenzen
 // debounce
 #define TIME_DEBOUNCE 35 //Wert um Reed-Sensor zu optimieren
 
